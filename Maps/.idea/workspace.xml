@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbd64518-1c3a-4a70-ac75-e78a9d6baedc" name="Changes" comment="" />
+    <list default="true" id="4ec70f61-055e-410c-948b-a3f67a5257bf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -23,7 +16,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2KZ039yfboCBkj7PYBLcghaao7J" />
+  <component name="ProjectId" id="2KZ2G6TLznQ5Bpy1eYXkXZ9GF7w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,12 +36,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fbd64518-1c3a-4a70-ac75-e78a9d6baedc" name="Changes" comment="" />
-      <created>1674166597395</created>
+      <changelist id="4ec70f61-055e-410c-948b-a3f67a5257bf" name="Changes" comment="" />
+      <created>1674167686535</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674166597395</updated>
-      <workItem from="1674166598853" duration="1079000" />
+      <updated>1674167686535</updated>
+      <workItem from="1674167687758" duration="857000" />
     </task>
     <servers />
   </component>
